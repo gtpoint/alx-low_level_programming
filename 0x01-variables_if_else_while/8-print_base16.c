@@ -14,7 +14,7 @@ int main(void)
 		{
 			printf("%d", i);
 		}
-		else 
+		else
 		{
 			if (i == 10)
 				printf("a");
