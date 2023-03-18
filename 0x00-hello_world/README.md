@@ -19,10 +19,10 @@ In this project, I learned about compilation using `gcc`, how to using `main` fu
   - [3-name](https://github.com/BigGtpoint/alx-low_level_programming/blob/main/0x00-hello_world/3-name): Bash Script that compiles a C file saved in the        variable `$CFILE` and creates an executable cisfun.
     
 + Hello, puts
-  - [4-puts.c](https://github.com/BigGtpoint/alx-low_level_programming/blob/main/0x00-hello_world/4-puts.c): C program that prints exactly `"Programming is like     building a multilingual puzzle`, followed by a new line, using the function `puts`.
+  - [4-puts.c](https://github.com/BigGtpoint/alx-low_level_programming/blob/main/0x00-hello_world/4-puts.c): C program that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line, using the function `puts`.
   
 + Hello, printf
-  - [5-printf.c](https://github.com/BigGtpoint/alx-low_level_programming/blob/main/0x00-hello_world/5-printf.c): C program that prints exactly `with proper           grammer, but the outcome is a piece of art,`, followed by a new line, using the function `printf`.
+  - [5-printf.c](https://github.com/BigGtpoint/alx-low_level_programming/blob/main/0x00-hello_world/5-printf.c): C program that prints exactly `with proper  grammer, but the outcome is a piece of art,`, followed by a new line, using the function `printf`.
  
 + Size is not grandeur, and territory does not make a nation
   - [6-size.c](https://github.com/BigGtpoint/alx-low_level_programming/blob/main/0x00-hello_world/6-size.c): C program that prints the size of various types on     the computer it is compiled and run on.
