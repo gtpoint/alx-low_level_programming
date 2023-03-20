@@ -4,7 +4,7 @@ In this project, I learned about using arithmetic, logical, relational, and bool
 
 ### All Tasks Here
 
-+ 0.  Positive anything is better than negative nothing
++ #### 0.  Positive anything is better than negative nothing
   - [0-positive_or_negative.c](https://github.com/BigGtpoint/alx-low_level_programming/blob/main/0x01-variables_if_else_while/0-positive_or_negative.c) :C program that prints whether a randomly generated number is positive or negative, followed by a new line:
     - Completion of this source [code.](https://github.com/holbertonschool/0x01.c/blob/master/1-last_digit_c)
     - The variable n will store a different value every time you will run this program.
