@@ -4,3 +4,4 @@ This repository contains programs written for the low-level programming and algo
 
 + [0x00. C - Hello, World](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x00-hello_world)
 + [0x01-variables_if_else_while](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x01-variables_if_else_while)
++ [0x02-functions_nested_loops](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x02-functions_nested_loops)
