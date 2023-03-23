@@ -11,14 +11,14 @@ int main(void)
 	unsigned long num1 = 0, num2 = 1, sum;
 	float total_sum;
 
-	while (true)
+	while (1)
 	{
 		sum = num1 + num2;
 		if (sum > 4000000)
 			break;
 
 		if ((sum % 2) == 0)
-			total_sum += fibsum;
+			total_sum += sum;
 
 		num1 = num2;
 		num2 = sum;
