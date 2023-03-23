@@ -6,18 +6,22 @@
  */
 int main(void)
 {
-	int index, number1 = 1, number2 = 2, next;
+	int index;
+	unsigned long num1 = 0, num2 = 1, sum;
 
-	index = 0;
-	while (index < 50)
+	for (index = 0; index < 50; index++)
 	{
-		next = number1 + number2;
-		printf("%d", next);
+		sum = num1 + num2;
+		printf("%lu", sum);
 
-		if (index == 49)
-			break;
-		printf(", ");
-		index++;
+		num1 = num2;
+		num2 = sum;
+
+		if (count == 49)
+			printf("\n");
+		else
+			printf(", ");
 	}
-	printf("\n");
+
+	return (0);
 }
