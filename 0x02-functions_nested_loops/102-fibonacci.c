@@ -17,7 +17,7 @@ int main(void)
 		num1 = num2;
 		num2 = sum;
 
-		if (count == 49)
+		if (index == 49)
 			printf("\n");
 		else
 			printf(", ");
