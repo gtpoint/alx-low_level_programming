@@ -9,4 +9,4 @@ This repository contains programs written for the low-level programming and algo
 + [0x04-more_functions_nested_loops](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x04-more_functions_nested_loops)
 + [0x05-pointers_arrays_strings](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x05-pointers_arrays_strings)
 + [0x06-pointers_arrays_strings](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings)
-+[0x07-pointers_arrays_strings](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x07-pointers_arrays_strings)
++ [0x07-pointers_arrays_strings](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x07-pointers_arrays_strings)
