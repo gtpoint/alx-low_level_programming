@@ -7,6 +7,7 @@ In this project, I learned about what and how to use pointers to pointers and mu
 
 ## Header File
 + [main.h](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x07-pointers_arrays_strings/main.h) : Header file containing prototypes for all functions written in this project.
+
 | File         | Protoype |
 | ------------ | -------- |
-| `0-memset.c` | char *_memset(char *s, char b, unsigned int n); |
+| 0-memset.c | `char *_memset(char *s, char b, unsigned int n);` |
