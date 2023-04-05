@@ -19,3 +19,7 @@ In this project, I learned about recursion in C.
 | 6-is_prime_number.c | `int is_prime_number(int n);` |
 | 100-is_palindrome.c | `int is_palindrome(char *s);` |
 | 101-wildcmp.c | `int wildcmp(char *s1, char *s2);` |
+
+## Tasks :
++ #### 0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget
+  - [0-puts_recursion.c](https://github.com/BigGtpoint/alx-low_level_programming/blob/main/0x08-recursion/0-puts_recursion.c) : Write a function that prints a string, followed by a new line.
