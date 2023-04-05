@@ -5,7 +5,7 @@ In this project, I learned about what and how to use pointers to pointers and mu
 ## Tests :
 + [tests](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x07-pointers_arrays_strings/tests) : Folder of test files.
 
-## Header File
+## Header File :
 + [main.h](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x07-pointers_arrays_strings/main.h) : Header file containing prototypes for all functions written in this project.
 
 | File         | Protoype |
