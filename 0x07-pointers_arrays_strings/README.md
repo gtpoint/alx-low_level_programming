@@ -19,3 +19,13 @@ In this project, I learned about what and how to use pointers to pointers and mu
 | 7-print_chessboard.c | `void print_chessboard(char (*a)[8]);` |
 | 8-print_diagsums.c | `void print_diagsums(int *a, int size);` |
 | 100-set_string.c | `void set_string(char **s, char *to);` |
+
++ 0. memset
+  - [0-memset.c](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x07-pointers_arrays_strings/0-memset.c) : C function that fills the first `n` bytes of memory area pointed to by `s` with the constant byte `b`.
+    - Returns a pointer to the filled memory area `s`.
+    
++ 1. memcpy
+  - [1-memcpy.c](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x07-pointers_arrays_strings/1-memcpy.c) : C function that copies `n` bytes from memory area `src` to memory area `dest`.
+  
++ 2. strchr
+  - 
