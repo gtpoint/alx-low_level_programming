@@ -6,7 +6,7 @@ In this project, I learned what static libraries and Creating A Static `C` Libra
  + [tests](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x08-static_libraries/tests) : Folder of test files.
 
 ### Taks :
- + ##### 0. A library is not a luxury but one of the necessities of life
+ + #### 0. A library is not a luxury but one of the necessities of life
    - [libmy.a](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x08-static_libraries/libmy.a): C Static library containing all the functions listed below:
 
       - `int _putchar(char c);`
@@ -30,5 +30,5 @@ In this project, I learned what static libraries and Creating A Static `C` Libra
       - `char *_strpbrk(char *s, char *accept);`
       - `char *_strstr(char *haystack, char *needle);`
 
- + ##### 1. Without libraries what have we? We have no past and no future
+ + #### 1. Without libraries what have we? We have no past and no future
    - [create_static_lib.sh](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x08-static_libraries/create_static_lib.sh) : Bash script that creates a static library `called liball.a` from all the `.c` files in the current directory.
