@@ -3,11 +3,11 @@
 In this project, I learned what static libraries and Creating A Static `C` Library Using `ar` and `ranlib`
 
 ### Tests :
- + [tests](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x08-static_libraries/tests) : Folder of test files.
+ + [tests](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x09-static_libraries/tests) : Folder of test files.
 
 ### Tasks :
  + #### 0. A library is not a luxury but one of the necessities of life
-   - [libmy.a](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x08-static_libraries/libmy.a): C Static library containing all the functions listed below:
+   - [libmy.a](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x09-static_libraries/libmy.a): C Static library containing all the functions listed below:
 
       - `int _putchar(char c);`
       - `int _islower(int c);`
@@ -31,4 +31,4 @@ In this project, I learned what static libraries and Creating A Static `C` Libra
       - `char *_strstr(char *haystack, char *needle);`
 
  + #### 1. Without libraries what have we? We have no past and no future
-   - [create_static_lib.sh](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x08-static_libraries/create_static_lib.sh) : Bash script that creates a static library called [liball.a](https://github.com/BigGtpoint/alx-low_level_programming/blob/main/0x09-static_libraries/liball.a) from all the `.c` files in the current directory.
+   - [create_static_lib.sh](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x09-static_libraries/create_static_lib.sh) : Bash script that creates a static library called [liball.a](https://github.com/BigGtpoint/alx-low_level_programming/blob/main/0x09-static_libraries/liball.a) from all the `.c` files in the current directory.
