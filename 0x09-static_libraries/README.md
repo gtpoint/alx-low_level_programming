@@ -8,6 +8,7 @@ In this project, I learned what static libraries and Creating A Static `C` Libra
 ### Taks :
  + ##### 0. A library is not a luxury but one of the necessities of life
    - [libmy.a](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x08-static_libraries/libmy.a): C Static library containing all the functions listed below:
+
       - `int _putchar(char c);`
       - `int _islower(int c);`
       - `int _isalpha(int c);`
