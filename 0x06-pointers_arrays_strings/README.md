@@ -9,7 +9,7 @@ In this project, I continued to practice using pointers, arrays and strings in C
   + [main.h](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/main.h) : Header file containing prototypes for all functions written in the project.
   
 | File         | Protoype | Description |
-| :--------- | :--------: | ----------: |
+| :--------- | -------- | ---------- |
 | 0-strcat.c | `char *_strcat(char *dest, char *src);` | Concatenates two strings |
 | 1-strncat.c | `char *_strncat(char *dest, char *src, int n);` | Concatenates two strings, using `n` bytes from `src` |
 | 2-strncpy.c | `char *_strncpy(char *dest, char *src, int n);` | Copies a string |
