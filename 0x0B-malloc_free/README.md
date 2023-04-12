@@ -9,7 +9,7 @@ In this project, I learned about the difference between automatic and dynamic lo
 + [main.h](https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/master/0x0A-malloc_free/main.h) : Header file containing prototypes for all functions written in the project.
 
 | File         | Protoype | Description |
-| :--------- | -------- | ---------- |
+| --------- | -------- | ---------- |
 | [0-create_array.c](https://github.com/BigGtpoint/alx-low_level_programming/blob/main/0x0B-malloc_free/0-create_array.c) | `char *create_array(unsigned int size, char c);` | creates an array of chars |
 | [1-strdup.c](https://github.com/BigGtpoint/alx-low_level_programming/blob/main/0x0B-malloc_free/1-strdup.c) | `char *_strdup(char *str);` | returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter. |
 | [2-str_concat.c](https://github.com/BigGtpoint/alx-low_level_programming/blob/main/0x0B-malloc_free/2-str_concat.c) | `char *str_concat(char *s1, char *s2);` | concatenates two strings |
