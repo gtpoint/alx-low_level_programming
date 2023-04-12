@@ -1,9 +1,9 @@
 # 0x0B-malloc_free
 
-In this project, I learned about the difference between automatic and dynamic location as well as how to use malloc, free, and valgrind in C.
+In this project, I learned about the difference between automatic and dynamic location as well as how to use `malloc`, `free`, and `valgrind` in C.
 
 ### Tests :
-+ [tests](https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/master/0x0A-malloc_free/tests)
++ [tests](https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/master/0x0A-malloc_free/tests) : Folder of test files.
 
 ### Header File :
 + [main.h](https://github.com/bdbaraban/holbertonschool-low_level_programming/blob/master/0x0A-malloc_free/main.h) : Header file containing prototypes for all functions written in the project.
