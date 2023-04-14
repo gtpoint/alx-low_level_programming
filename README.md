@@ -12,4 +12,5 @@ This repository contains programs written for the low-level programming and algo
 + [0x07-pointers_arrays_strings](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x07-pointers_arrays_strings)
 + [0x08-recursion](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x08-recursion)
 + [0x09-static_libraries](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x09-static_libraries)
-+ [0x09-argc_argv](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x09-argc_argv)
++ [0x0A-argc_argv](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x0A-argc_argv)
++ [0x0B-malloc_free](https://github.com/BigGtpoint/alx-low_level_programming/tree/main/0x0B-malloc_free)
