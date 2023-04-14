@@ -1,4 +1,4 @@
-# Low-Level Programming - Data Structures, Algorithms
+# alx-Low-Level Programming - Data Structures And Algorithms
 
 This repository contains programs written for the low-level programming and algorithm track at Alx program. In these projects, I learned about data structures, algorithms, and other low-level programming concepts while working in the C language. The specific list of projects contained follows:
 
