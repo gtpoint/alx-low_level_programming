@@ -19,7 +19,8 @@ This repository contains programs written for the low-level programming and algo
 + [0x0E-structures_typedef](https://github.com/gtpoint/alx-low_level_programming/tree/main/0x0E-structures_typedef)
 + [0x0F-function_pointers](./0x0F-function_pointers)
 + [0x10-variadic_functions](./0x10-variadic_functions)
-
++ [0x12-singly_linked_lists](./0x12-singly_linked_lists)
++ [0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists)
 
 ## Acknowledgments
 + [alx Africa](https://www.alxafrica.com/) : for providing the low-level programming assignments.
