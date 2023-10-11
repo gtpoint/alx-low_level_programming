@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "search_algos.h"
+#include "./search_algos.h"
 
 /**
  * binary_search - searches for a value in an array of integers.
