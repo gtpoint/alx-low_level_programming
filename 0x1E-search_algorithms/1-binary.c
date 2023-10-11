@@ -10,14 +10,14 @@
  * Return: the index where value is located or -1 if not found.
  */
 int binary_search(int *array, size_t size, int value) {
-    if (array == NULL) {
-        return -1;
-    }
-
     size_t left, right, mid, i;
     left = 0;
     right = size - 1;
-
+    
+    if (array == NULL) {
+        return -1;
+    }
+    
     while (left <= right) {
         mid = (right + left) / 2;
 
